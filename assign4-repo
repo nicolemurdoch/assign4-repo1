@@ -1,0 +1,383 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.925438,
+          40.765657999999995,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Home",
+        "description": "  from 2019-02-17T00:03:48.448Z to 2019-02-17T15:26:41.101Z. Distance 0m ",
+        "timespan": {
+          "begin": "2019-02-17T00:03:48.448Z",
+          "end": "2019-02-17T15:26:41.101Z"
+        },
+        "Email": "nicolemmurdoch@gmail.com",
+        "Category": null,
+        "Distance": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.925438,
+            40.765657999999995,
+            0
+          ],
+          [
+            -73.925438,
+            40.765657999999995,
+            0
+          ],
+          [
+            -73.9254281,
+            40.7658696,
+            0
+          ],
+          [
+            -73.9285568,
+            40.7719408,
+            0
+          ],
+          [
+            -73.928308,
+            40.7717406,
+            0
+          ],
+          [
+            -73.9291071,
+            40.7722439,
+            0
+          ],
+          [
+            -73.9254168,
+            40.7718453,
+            0
+          ],
+          [
+            -73.92532417384534,
+            40.771862331053896,
+            0
+          ],
+          [
+            -73.92532417384534,
+            40.771862331053896,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Driving",
+        "description": " Driving from 2019-02-17T15:26:41.101Z to 2019-02-17T16:58:25.449Z. Distance 1188m ",
+        "timespan": {
+          "begin": "2019-02-17T15:26:41.101Z",
+          "end": "2019-02-17T16:58:25.449Z"
+        },
+        "Email": "nicolemmurdoch@gmail.com",
+        "Category": "Driving",
+        "Distance": 1188
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.92346189999999,
+          40.7643574,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Astoria",
+        "description": "  from 2019-02-17T16:58:25.449Z to 2019-02-17T17:17:45.251Z. Distance 0m ",
+        "timespan": {
+          "begin": "2019-02-17T16:58:25.449Z",
+          "end": "2019-02-17T17:17:45.251Z"
+        },
+        "Email": "nicolemmurdoch@gmail.com",
+        "Category": null,
+        "Distance": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.92532417384534,
+            40.771862331053896,
+            0
+          ],
+          [
+            -73.92532417384534,
+            40.771862331053896,
+            0
+          ],
+          [
+            -73.9247972,
+            40.7713805,
+            0
+          ],
+          [
+            -73.9233048,
+            40.7700715,
+            0
+          ],
+          [
+            -73.9232304,
+            40.7682338,
+            0
+          ],
+          [
+            -73.9216489,
+            40.7668561,
+            0
+          ],
+          [
+            -73.9225798,
+            40.7655021,
+            0
+          ],
+          [
+            -73.9224522,
+            40.7637344,
+            0
+          ],
+          [
+            -73.9219392,
+            40.763286,
+            0
+          ],
+          [
+            -73.9219392,
+            40.763286,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Walking",
+        "description": " Walking from 2019-02-17T17:17:45.251Z to 2019-02-17T17:30:30.573Z. Distance 1101m ",
+        "timespan": {
+          "begin": "2019-02-17T17:17:45.251Z",
+          "end": "2019-02-17T17:30:30.573Z"
+        },
+        "Email": "nicolemmurdoch@gmail.com",
+        "Category": "Walking",
+        "Distance": 1101
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9219392,
+          40.763286,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Madame Sousou Cafe",
+        "description": " Cafe from 2019-02-17T17:30:30.573Z to 2019-02-17T19:47:49.235Z. Distance 0m ",
+        "timespan": {
+          "begin": "2019-02-17T17:30:30.573Z",
+          "end": "2019-02-17T19:47:49.235Z"
+        },
+        "Email": "nicolemmurdoch@gmail.com",
+        "Category": "Cafe",
+        "Distance": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.925438,
+          40.765657999999995,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Home",
+        "description": "  from 2019-02-17T19:47:55.685Z to 2019-02-18T00:18:19.450Z. Distance 0m ",
+        "timespan": {
+          "begin": "2019-02-17T19:47:55.685Z",
+          "end": "2019-02-18T00:18:19.450Z"
+        },
+        "Email": "nicolemmurdoch@gmail.com",
+        "Category": null,
+        "Distance": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.925438,
+            40.765657999999995,
+            0
+          ],
+          [
+            -73.925438,
+            40.765657999999995,
+            0
+          ],
+          [
+            -73.9252949,
+            40.7658788,
+            0
+          ],
+          [
+            -73.9219054,
+            40.7662684,
+            0
+          ],
+          [
+            -73.919632,
+            40.7661046,
+            0
+          ],
+          [
+            -73.9210365,
+            40.7662088,
+            0
+          ],
+          [
+            -73.9179455,
+            40.765143,
+            0
+          ],
+          [
+            -73.9155851,
+            40.7643532,
+            0
+          ],
+          [
+            -73.9155212,
+            40.764381799999995,
+            0
+          ],
+          [
+            -73.9155212,
+            40.764381799999995,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Walking",
+        "description": " Walking from 2019-02-18T00:18:19.450Z to 2019-02-18T00:28:51.648Z. Distance 1136m ",
+        "timespan": {
+          "begin": "2019-02-18T00:18:19.450Z",
+          "end": "2019-02-18T00:28:51.648Z"
+        },
+        "Email": "nicolemmurdoch@gmail.com",
+        "Category": "Walking",
+        "Distance": 1136
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9155212,
+          40.764381799999995,
+          0
+        ]
+      },
+      "properties": {
+        "name": "New York Sports Clubs",
+        "description": " Health club from 2019-02-18T00:28:51.648Z to 2019-02-18T01:51:26.487Z. Distance 0m ",
+        "timespan": {
+          "begin": "2019-02-18T00:28:51.648Z",
+          "end": "2019-02-18T01:51:26.487Z"
+        },
+        "Email": "nicolemmurdoch@gmail.com",
+        "Category": "Health club",
+        "Distance": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.92346189999999,
+          40.7643574,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Astoria",
+        "description": "  from 2019-02-18T01:51:32.946Z to 2019-02-18T02:20:21.509Z. Distance 0m ",
+        "timespan": {
+          "begin": "2019-02-18T01:51:32.946Z",
+          "end": "2019-02-18T02:20:21.509Z"
+        },
+        "Email": "nicolemmurdoch@gmail.com",
+        "Category": null,
+        "Distance": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.92346189999999,
+          40.7643574,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Astoria",
+        "description": "  from 2019-02-18T02:20:27.974Z to 2019-02-18T02:33:57.989Z. Distance 0m ",
+        "timespan": {
+          "begin": "2019-02-18T02:20:27.974Z",
+          "end": "2019-02-18T02:33:57.989Z"
+        },
+        "Email": "nicolemmurdoch@gmail.com",
+        "Category": null,
+        "Distance": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.925438,
+          40.765657999999995,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Home",
+        "description": "  from 2019-02-18T02:34:04.428Z to 2019-02-18T19:37:47.963Z. Distance 0m ",
+        "timespan": {
+          "begin": "2019-02-18T02:34:04.428Z",
+          "end": "2019-02-18T19:37:47.963Z"
+        },
+        "Email": "nicolemmurdoch@gmail.com",
+        "Category": null,
+        "Distance": 0
+      }
+    }
+  ]
+}
